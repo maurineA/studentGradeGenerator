@@ -36,7 +36,10 @@ or by downloading a ZIP file of the code.
   node index.js
 
   # Technologies Used
-
+<ul>
+<li>JS</li>
+<li>Node Runtime Environment</li>
+</ul>
 1. JS
 2. Node Runtime Environment
 
