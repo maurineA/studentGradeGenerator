@@ -1,9 +1,11 @@
 # Student Grade Generator
+
 Javascript Console Application That Generates Student Grades, OCTOBER 08/2023
 
 By Maurine Wambui
 
 # Description
+
 This is Javascript Console Application that allow the user to enter the students marks and student grades are genetated in this format  A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40. For example 13 will output an "E".
 
 # Requirements
@@ -33,7 +35,7 @@ or by downloading a ZIP file of the code.
 
 # Support and Contact Details
 
-Incase of any query, need for collaboration or issues with this code, feel free to reach me at dennis.maurine.wambui@student.moringaschool.com
+Incase of any query, need for collaboration or issues with this code, feel free to reach me at maurine.wambui@student.moringaschool.com
 
 # License
 
