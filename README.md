@@ -9,6 +9,7 @@ By Maurine Wambui
 This is Javascript Console Application that allow the user to enter the students marks and student grades are genetated in this format  A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40. For example 13 will output an "E".
 
 # How to Use
+
 <ul>
 <li>Use node index.js to input and review the results, then enter.</li>
 <li>A "What grade did the student get?" popup will display.</li>
