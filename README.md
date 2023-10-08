@@ -9,39 +9,40 @@ By Maurine Wambui
 This is Javascript Console Application that allow the user to enter the students marks and student grades are genetated in this format  A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40. For example 13 will output an "E".
 
 # How to Use
-1. Use node index.js to input and review the results, then enter.
-2. A "What grade did the student get?" popup will display.
-3. Input the student's mark, For example 78, then enter.
-4. The output will be a "B" because 78 is within that range.
-
+<ul>
+<li>Use node index.js to input and review the results, then enter.</li>
+<li>A "What grade did the student get?" popup will display.</li>
+<li>Input the student's mark, For example 78, then enter.</li>
+<li>The output will be a "B" because 78 is within that range.</li>
+</ul>
 
 # Requirements
 
-1. A computer with a bash terminal and node installed.
-2. Access to the internet.
+<ul>
+<li>A computer with a bash terminal and node installed.</li>
+<li>Access to the internet.</li>
+</ul>
 
 # Installation Process
 
-1. Clone this repository using
+<ul>
+<li>Clone this repository using
 
   git clone git@github.com:maurineA/studentGradeGenerator.git
-or by downloading a ZIP file of the code.
+or by downloading a ZIP file of the code.</li>
+<li>The repository, if downloaded as a .zip file will need to be extracted to your preferred location.</li>
+<li>Navigate to the project folder on your bash terminal.</li>
+<li>Run the application using
 
-2. The repository, if downloaded as a .zip file will need to be extracted to your preferred location.
-
-3. Navigate to the project folder on your bash terminal.
-
-4. Run the application using
-
-  node index.js
+  node index.js</li>
+</ul>
 
   # Technologies Used
 <ul>
 <li>JS</li>
 <li>Node Runtime Environment</li>
 </ul>
-1. JS
-2. Node Runtime Environment
+
 
 # Support and Contact Details
 
